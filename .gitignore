@@ -4,3 +4,5 @@ crm.db
 crm.db-shm
 crm.db-wal
 frontend
+channel-service/node_modules
+channel-service/.env
